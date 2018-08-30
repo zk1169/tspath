@@ -1,6 +1,6 @@
 {
-  "name": "@coldmind/tspath",
-  "version": "0.7.2",
+  "name": "@zk/tspath",
+  "version": "0.0.1",
   "description": "TypeScript Path Igniter resolves @paths specified in tsconfig",
   "scripts": {
     "build": "tsc",
@@ -19,10 +19,10 @@
     "resolve",
     "alias"
   ],
-  "author": "Patrik Forsberg <patrik.forsberg@coldmind.com>",
+  "author": "ZK <287760234@qq.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duffman/tspath.git"
+    "url": "git@github.com:zk1169/tspath.git"
   },
   "license": "LGPL-2",
   "dependencies": {
