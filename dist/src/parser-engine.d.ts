@@ -9,12 +9,12 @@ export declare class ParserEngine {
     constructor();
     exit(code?: number): void;
     setProjectPath(projectPath: string): boolean;
-    private validateProjectPath(projectPath);
+    private validateProjectPath;
     /**
      * Attempts to read the name property form package.json
      * @returns {string}
      */
-    private readProjectName();
+    private readProjectName;
     execute(): void;
     /**
      *
